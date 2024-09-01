@@ -1,0 +1,27 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main-IMAP.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mailUser&Sequence_1",
+        "mailServer&Sequence_1",
+        "mailPort&Sequence_1",
+        "mailMessages&Sequence_1",
+        "passwd&Sequence_1",
+        "dtRules&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
