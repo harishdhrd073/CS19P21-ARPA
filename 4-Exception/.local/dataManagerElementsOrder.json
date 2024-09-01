@@ -1,0 +1,142 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstNo&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Rethrow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstNo&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Rethrow-Ex.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstNo&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Throw.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstNo&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intResult&Sequence_2",
+        "i&TryCatch_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Throw-Business.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstNo&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intResult&Sequence_2",
+        "i&TryCatch_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Terminate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intResult&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intFirstNo&Sequence_2",
+        "i&TryCatch_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RetryScope.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "flag&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TryCatch_IOException.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TryCatch_ArrayIndexOutOfBounds.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listA&Sequence_2",
+        "intarrAge&Sequence_2",
+        "dictEMP&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Throw-BRE.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstNo&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intResult&Sequence_2",
+        "i&TryCatch_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Without_Rethrow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intFirstNo&Sequence_2",
+        "intSecondNo&Sequence_2",
+        "intResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
